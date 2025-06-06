@@ -23,7 +23,7 @@ Clone este repositório:
 
 Bash
 
-git clone https://github.com/SEU_USUARIO/NOME_DO_REPOSITORIO.git
+git clone https://github.com/DanielMnzs/Desenvolvimento-de-Aplicativo-Mobile-para-Monitoramento-de-Riscos-de-Deslizamentos.git
 Navegue até a pasta do projeto:
 
 Bash
@@ -46,9 +46,9 @@ npx react-native run-android
 O aplicativo será compilado e instalado no emulador que está em execução.
 
 👥 Integrantes
-Nome Completo: [SEU NOME COMPLETO AQUI]
+Nome Completo: [Daniel Menezes Alves]
 
-RM: [SEU RM AQUI]
-Nome Completo: [NOME COMPLETO DO COLEGA AQUI]
+RM: [551398]
+Nome Completo: [Gabriel Eduardo Taboada]
 
-RM: [RM DO COLEGA AQUI]
+RM: [97957]
